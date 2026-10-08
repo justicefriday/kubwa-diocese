@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-royal: #3B1E5E;
+  --color-midnight: #24123B;
+  --color-gold: #C9A227;
+  --color-ivory: #FAF7F2;
+  --color-mist: #EFEAF6;
+  --color-ink: #2B2B33;
+
+  --font-heading: "Cormorant Garamond Variable", serif;
+  --font-body: "Inter Variable", sans-serif;
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3 { font-family: var(--font-heading); }
