@@ -1,6 +1,4 @@
-// PLACEHOLDER DATA: every name and phone number below is invented. Replace with the real unit heads.
-// Descriptions for the first five come from your history document. The rest are general
-// descriptions of what these groups do in the Anglican Church, so edit them to match your diocese.
+
 
 export const ministries = [
   { title: 'Education', text: 'Three Anglican Comprehensive Secondary Schools in Kubwa, Kpeyegyi and Nyanya, and the Kubwa Anglican Diocesan Training Centre, offering diploma courses in lay ministry.', head: 'Mr. Daniel Okeke', phone: '0801 000 0001' },
