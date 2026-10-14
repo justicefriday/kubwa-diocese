@@ -59,7 +59,7 @@ export const sections = [
   {
     title: 'Growth of the Archdeaconries',
     paragraphs: [
-      'The diocese began with six archdeaconries and has grown to seventeen. Each one has taken on a giant project of its own, from new churches and vicarages to halls and conference centres, and many more are quietly going on across the diocese.',
+      'The Diocese began with six archdeaconries and has since grown to twenty-two. Each archdeaconry has undertaken a major project of its own, ranging from the construction of new churches and vicarages to halls, conference centres and schools. Many more projects are also quietly progressing across the Diocese.As part of its evangelical mission and drive for expansion, on Saturday 15th of November 2025, the Church of Nigeria carved out the Nyanya, Karu, Karshi, Jikwoyi West, and Jikwoyi North Archdeaconries, together with their surrounding areas, from the Diocese to form the newly created Keffi-Karshi Missionary Diocese.',
     ],
     chips: true,
   },

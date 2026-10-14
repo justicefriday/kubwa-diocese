@@ -7,9 +7,21 @@ export const events = [
     time: '8:00 am',
   },
   {
-    date: '2027-07-22',
-    title: 'Diocesan Synod',
+    date: '2027',
+    title: '2027 Diocesan Synod',
     place: 'Hosted by Dutse Archdeaconry',
-    time: '9:00 am',
+    // time: '9:00 am',
+  },
+   {
+    date: '2028',
+    title: '2028 Diocesan Synod',
+    place: 'Hosted by FHA Archdeaconry',
+    // time: '9:00 am',
+  },
+   {
+    date: '2029',
+    title: '2029 Diocesan Synod',
+    place: 'Hosted by Kubwa Archdeaconry',
+    // time: '9:00 am',
   },
 ]
