@@ -1,7 +1,7 @@
 export const bishop = {
   name: "The Rt. Rev'd Dr. Duke T. Akamisoko",
   title: 'Bishop, Diocese of Kubwa',
-  photo: '/images/bishop.jpg',
+  photo: '/images/duke.jpeg',
 
   facts: [
     ['Born', '6 March 1964, Gboloko, Kogi State'],
